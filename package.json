@@ -1,6 +1,6 @@
 {
   "name": "@n8n-dev/n8n-nodes-va-gov-confirmation",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Veteran Confirmation API allows you to confirm Veteran status for a given person. This can be useful for offering Veterans discounts or other benefits",
   "license": "MIT",
   "homepage": "https://n8n-code.github.io/n8n-dev/#/n8n-nodes-va-gov-confirmation",

@@ -55,7 +55,7 @@ That's it. No configuration files. No code. It just works.
 
 | Resource | Operations |
 |----------|------------|
-| Veteran Confirmation Status | POST Get confirmation about an individual's Veteran status according to the VA |
+| Veteran Confirmation Status | Post get confirmation about an individuals veteran status according to the va |
 
 ---
 
